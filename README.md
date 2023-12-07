@@ -1,3 +1,7 @@
+| Tool | Download Link |
+| ----------- | ------------------ |
+| cnrxad's IP geolocalizer | [Download here](https://github.com/cnrxad/IP-Info-Geolocalization/releases/tag/exe) |
+
 # IP Geolocalization Script
 
 This repository contains a Python script designed to perform a geolocalization from an IP automatically. Running the script will extract data from an specific IP.
