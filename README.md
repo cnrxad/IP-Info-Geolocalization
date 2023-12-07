@@ -1,5 +1,5 @@
-| Tool | Download Link |
-| ----------- | ------------------ |
+| Tool | Download link |
+| :---------: | :----------------: |
 | cnrxad's IP geolocalizer | [Download here](https://github.com/cnrxad/IP-Info-Geolocalization/releases/tag/exe) |
 
 # IP Geolocalization Script
