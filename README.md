@@ -1,6 +1,15 @@
-| Tool | Download link |
-| :---------: | :----------------: |
-| cnrxad's IP geolocalizer | [Download here](https://github.com/cnrxad/IP-Info-Geolocalization/releases/tag/exe) |
+<div style="display: flex; justify-content: center;">
+  <table>
+    <tr>
+      <th>Tool</th>
+      <th>Download link</th>
+    </tr>
+    <tr>
+      <td>cnrxad's IP geolocalizer</td>
+      <td><a href="https://github.com/cnrxad/IP-Info-Geolocalization/releases/tag/exe">Download here</a></td>
+    </tr>
+  </table>
+</div>
 
 # IP Geolocalization Script
 
