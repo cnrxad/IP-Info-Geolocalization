@@ -6,7 +6,7 @@
     </tr>
     <tr>
       <td>cnrxad's IP geolocalizer</td>
-      <td><a href="https://github.com/cnrxad/IP-Info-Geolocalization/releases/tag/exe">Download here</a></td>
+      <td><a href="https://github.com/cnrxad/IP-Info-Geolocalization/releases">Download here</a></td>
     </tr>
   </table>
 </div>
