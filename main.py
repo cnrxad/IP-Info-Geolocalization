@@ -1,3 +1,5 @@
+# cnrxad puto amo
+
 import ipinfo
 from colorama import Fore, Back, Style, init
 
@@ -115,3 +117,4 @@ else:
             break
         else:
             print(Fore.RED + "pulsa y/n!")
+
