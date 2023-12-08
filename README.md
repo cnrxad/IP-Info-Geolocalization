@@ -1,12 +1,17 @@
 <div style="display: flex; justify-content: center;">
   <table>
     <tr>
-      <th>Tool</th>
+      <th>Title</th>
       <th>Download link</th>
     </tr>
     <tr>
-      <td>cnrxad's IP geolocalizer</td>
+      <td>(tool) cnrxad's IP geolocalizer</td>
       <td><a href="https://github.com/cnrxad/IP-Info-Geolocalization/releases">Download here</a></td>
+    </tr>
+    </tr>
+    <tr>
+      <td>(script)</td>
+      <td><a href="https://github.com/cnrxad/IP-Info-Geolocalization/blob/main/main.py">Download here</a></td>
     </tr>
   </table>
 </div>
