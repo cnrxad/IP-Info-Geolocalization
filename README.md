@@ -16,6 +16,8 @@
   </table>
 </div>
 
+## Website: https://cnrxad-ipinfo.netlify.app
+
 # IP Geolocalization Script
 
 This repository contains a Python script designed to perform a geolocalization from an IP automatically. Running the script will extract data from an specific IP.
