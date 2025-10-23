@@ -1,4 +1,3 @@
-# cnrxad puto amo (KN IP-INFO con WHOIS y header centrado)
 import ipinfo
 import socket
 import webbrowser
@@ -7,14 +6,12 @@ from datetime import datetime
 from zoneinfo import ZoneInfo, ZoneInfoNotFoundError
 from colorama import Fore, Back, Style, init
 
-# Optional libs
 try:
     import pyperclip
     HAS_PYPERCLIP = True
 except Exception:
     HAS_PYPERCLIP = False
 
-# ipwhois for IP WHOIS lookups (optional)
 try:
     from ipwhois import IPWhois
     HAS_IPWHOIS = True
@@ -149,7 +146,6 @@ def do_ip_whois(ip):
     except Exception as e:
         return f"(error en WHOIS: {e})"
 
-# --- Main flow ---
 print_header()
 
 ip_address = input(Fore.YELLOW + "ingrese la dirección IP: ").strip()
@@ -172,7 +168,6 @@ else:
 
 print_card(details)
 
-# Preguntas extra/acciones
 while True:
     options_line = "Opciones: [m] abrir Maps  [c] copiar resumen  [s] guardar en last_ip.txt  [w] whois  [q] salir"
     print(Fore.MAGENTA + options_line)
@@ -209,3 +204,4 @@ while True:
         print(Fore.RED + "opción inválida. pulsa m/c/s/w/q")
 
 print(Fore.CYAN + "💮 fin")
+
