@@ -30,13 +30,10 @@ IPinfo prides itself on being the most reliable, accurate, and in-depth source o
 On the other hand, Colorama makes ANSI escape character sequences (for producing colored terminal text and cursor positioning) work under MS Windows.
 
 ## ➡ How to run the script?
-To run the script, you will need to have Python installed on your system. Additionally, you will need to install the necessary Python libraries, such as IPinfo and Coloroma. You can install these libraries using pip, the Python package installer.
-
-Here is an example of how you can install IPinfo and Colorama:
+To run the script, you will need to have Python installed on your system. Additionally, you will need to install the necessary Python libraries.
 
 ```
-pip install IPinfo
-pip install Colorama
+pip install -r requirements.txt
 ```
 
 Once you have installed Python and the necessary libraries, you can run the Python script using the following command in the terminal:

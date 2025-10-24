@@ -203,5 +203,5 @@ while True:
     else:
         print(Fore.RED + "opción inválida. pulsa m/c/s/w/q")
 
-print(Fore.CYAN + "💮 fin")
+print(Fore.CYAN + "✿ fin")
 
